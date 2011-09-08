@@ -4,12 +4,36 @@
   <title>Etienne de Bruin</title>
   <link href="http://etdebruin.github.com/atom.xml" rel="self"/>
   <link href="http://etdebruin.github.com/"/>
-  <updated>2011-09-06T12:34:56-07:00</updated>
+  <updated>2011-09-08T10:37:59-07:00</updated>
   <id>http://etdebruin.github.com/</id>
   <author>
     <name>Etienne de Bruin</name>
     
   </author>
 
+  
+  <entry>
+    <title>1Password</title>
+    <link href="http://etdebruin.github.com/Make/it/better/1password.html"/>
+    <updated>2011-09-08T09:55:00-07:00</updated>
+    <id>http://etdebruin.github.com/Make/it/better/1password</id>
+    <content type="html">&lt;p&gt;Too often when I use &lt;a href=&quot;http://www.1password.com/&quot;&gt;1password&lt;/a&gt; to log into a site, I am faced with multiple logins for the same site.
+As the time monster would have it, I almost always choose the wrong password and the
+'Incorrect Password' alarms start ringing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class='left ' src='http://etdebruin.github.com/images/et/1password.png' width='' height='' alt='' title=''&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is how you can make it better, 1Password:&lt;/p&gt;
+
+&lt;p&gt;Allow me to 'x' out the passwords that don't work anymore (or incorrectly configured).  Or,&lt;/p&gt;
+
+&lt;p&gt;Since you are able to see that the password is incorrect, why not present me with a choice to either
+keep the password or delete it?&lt;/p&gt;
+
+&lt;p&gt;You have a great product.  You are fanatic.  Do it.&lt;/p&gt;
+
+&lt;p&gt;Etienne&lt;/p&gt;
+</content>
+  </entry>
   
 </feed>
